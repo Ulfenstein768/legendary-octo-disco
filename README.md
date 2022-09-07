@@ -2,9 +2,9 @@
  
  This simple todo list is made with
  - React-native
-  - https://reactnative.dev/docs/getting-started
+    - https://reactnative.dev/docs/getting-started
  - Expo
-  - https://docs.expo.dev/
+    - https://docs.expo.dev/
  
  To initialise the project clone the project;
 ```
