@@ -12,5 +12,7 @@ git clone (https://github.com/Ulfenstein768/legendary-octo-disco)
  
  ```
 cd AwesomeProject
-npm start or yarn run. # you can also use: expo start, if you have that installed.
+npm start or yarn run. 
+
+# you can also use: expo start, if you have that installed.
 ```
